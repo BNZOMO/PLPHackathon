@@ -1,6 +1,6 @@
 🚨🔥 Vibe Coding Hackathon 3.0 🔥🚨
 
-# 🌍 AI Study Buddy – Team 5  
+# 🌍 AI Study Buddy – 
 *Hackathon Project | SDG 4: Quality Education*
 
 ---
